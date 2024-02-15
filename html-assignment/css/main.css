@@ -24,4 +24,6 @@ section>ul {
     background: pink;
   }
 
-
+nav>ul {
+    list-style-type: none;
+}
