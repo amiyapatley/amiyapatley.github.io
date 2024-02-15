@@ -19,3 +19,7 @@ header, footer {
 section>ul {
     list-style-type: square;
 }
+
+section>ul:nth-child(odd){
+    background: teal;
+  }
