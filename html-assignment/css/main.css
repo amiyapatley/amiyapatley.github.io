@@ -21,7 +21,7 @@ section>ul {
 }
 
 .hobbies li:nth-child(odd){
-    background: teal;
+    background: pink;
   }
 
 
