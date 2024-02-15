@@ -20,6 +20,8 @@ section>ul {
     list-style-type: square;
 }
 
-hobbies li:nth-child(odd){
+.hobbies li:nth-child(odd){
     background: teal;
   }
+
+
