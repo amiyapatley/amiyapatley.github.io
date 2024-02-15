@@ -16,3 +16,6 @@ header, footer {
     box-shadow: 0 0 2px 1px black; 
 }
 
+section>ul {
+    list-style-type: square;
+}
