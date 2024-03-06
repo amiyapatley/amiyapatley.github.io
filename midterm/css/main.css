@@ -36,6 +36,9 @@ header h1{
     text-align: center;
 }
 
+nav, section, footer, article {
+    margin: 10px;
+}
 
 nav li {
     display: inline-block;
